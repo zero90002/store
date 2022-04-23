@@ -30,7 +30,7 @@
    {
     "name": "FNAF 1",
     "icon": "http://www.simpleimageresizer.com/_uploads/photos/edf762fc/fnaf_1_icon__16k_res__by_sallysfm_der8rkd-pre_128x128.jpg",
-    "type": "game",
+    "type": "game"
     "data": {
       "type": "IFrame",
       "url": "https://run3.io/popgame/fnaf/fnaf1/",
